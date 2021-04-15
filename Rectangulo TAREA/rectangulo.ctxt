@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=rectangulo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ rectangulo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a
+comment1.target=rectangulo(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ rectangulo\r\n
+comment10.params=
+comment10.target=int\ setperimetro()
+comment11.params=
+comment11.target=int\ setarea()
+comment2.params=altura\ base
+comment2.target=int\ calcularPerimetro(int,\ int)
+comment3.params=altura\ base
+comment3.target=int\ calcularArea(int,\ int)
+comment4.params=
+comment4.target=int\ getbase()
+comment5.params=
+comment5.target=int\ getaltura()
+comment6.params=
+comment6.target=int\ getperimetro()
+comment7.params=
+comment7.target=int\ getarea()
+comment8.params=
+comment8.target=int\ setbase()
+comment9.params=
+comment9.target=int\ setaltura()
+numComments=12
